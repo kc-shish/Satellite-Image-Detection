@@ -2,7 +2,7 @@
 
 A Deep Learning based **Satellite Image Classification Web Application** built using **PyTorch** and **Streamlit**.
 
-This project classifies aerial and satellite scene images using the **AID (Aerial Image Dataset)** and predicts land-use categories through a trained CNN model.
+This project classifies aerial and satellite scene images using the **AID (Aerial Image Dataset)** from **Kaggle** and predicts land-use categories through a trained CNN model.
 
 ---
 
