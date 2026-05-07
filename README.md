@@ -224,7 +224,7 @@ The confusion matrix visualizes the classification performance of the ResNet18 t
 Upload any aerial or satellite image for classification.
 
 <p align="left">
-  <img src="Screenshots/app_ui.png" width="400">
+  <img src="Screenshots/app_UI.png" width="400">
 </p>
 ### 🔍 Prediction Result
 
