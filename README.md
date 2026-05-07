@@ -1,4 +1,4 @@
-# 🛰️ AID Dataset Satellite Image Classification
+# 🛰️ Satellite Image Classification
 
 A Deep Learning based **Satellite Image Classification Web Application** built using **PyTorch** and **Streamlit**.
 
