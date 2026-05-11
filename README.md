@@ -5,7 +5,11 @@ A Deep Learning based **Satellite Image Classification Web Application** built u
 This project classifies aerial and satellite scene images using the **AID (Aerial Image Dataset)** from **Kaggle** and predicts land-use categories through a trained CNN model.
 
 ---
+## 🎥 Project Demo
 
+[Watch Demo Video](https://www.youtube.com/watch?v=gU-zFAtHmuk)
+
+---
 # 📚 About AID Dataset
 
 The **AID (Aerial Image Dataset)** is a large-scale dataset used for aerial scene classification.
