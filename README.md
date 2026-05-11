@@ -8,7 +8,7 @@ This project classifies aerial and satellite scene images using the **AID (Aeria
 ## 🎥 Project Demo
 
 <a href="https://www.youtube.com/watch?v=gU-zFAtHmuk">
-  <img src="Screenshots/app_UI.png" width="800">
+  <img src="Screenshots/app_UI.png" width="300">
 </a>
 
 ▶️ Click the image above to watch the full demo on YouTube.
