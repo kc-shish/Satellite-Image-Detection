@@ -7,7 +7,7 @@ This project classifies aerial and satellite scene images using the **AID (Aeria
 ---
 ## 🎥 Project Demo
 
-[Watch Demo Video](https://www.youtube.com/watch?v=gU-zFAtHmuk)
+[![Watch the Demo Video](Screenshots/demo_thumbnail.png)](https://www.youtube.com/watch?v=gU-zFAtHmuk)
 
 ---
 # 📚 About AID Dataset
