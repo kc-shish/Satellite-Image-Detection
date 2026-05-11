@@ -227,13 +227,14 @@ The confusion matrix visualizes the classification performance of the ResNet18 t
 
 # 📸 Application Preview
 
+<p align="left">
+  <img src="Screenshots/app_UI.png" width="400">
+</p>
+
 ### 🖼️ Upload Satellite Image
 
 Upload any aerial or satellite image for classification.
 
-<p align="left">
-  <img src="Screenshots/app_UI.png" width="400">
-</p>
 ### 🔍 Prediction Result
 
 The application predicts the corresponding scene category instantly.
