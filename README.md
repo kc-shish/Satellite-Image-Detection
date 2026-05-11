@@ -85,7 +85,7 @@ The **AID (Aerial Image Dataset)** is a large-scale dataset used for aerial scen
 
 # 🎯 Model Performance
 
-- ✅ Achieved Accuracy: **95%**
+- ✅ Achieved **95%** classification accuracy on 30-class aerial scene dataset using transfer learning with ResNet18 and Optuna-based hyperparameter tuning.
 - 🔥 Built using **Transfer Learning with ResNet18**
 - 🧠 Pretrained model fine-tuned on the AID Dataset using PyTorch
 - ⚡ Hyperparameter Optimization performed using **Optuna** for improved model performance and training efficiency
